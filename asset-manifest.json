@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Zelt-Bradford-Calculator/static/css/main.5e1062de.css",
+    "main.js": "/Zelt-Bradford-Calculator/static/js/main.d77dcbdc.js",
+    "static/js/787.58140e66.chunk.js": "/Zelt-Bradford-Calculator/static/js/787.58140e66.chunk.js",
+    "index.html": "/Zelt-Bradford-Calculator/index.html",
+    "main.5e1062de.css.map": "/Zelt-Bradford-Calculator/static/css/main.5e1062de.css.map",
+    "main.d77dcbdc.js.map": "/Zelt-Bradford-Calculator/static/js/main.d77dcbdc.js.map",
+    "787.58140e66.chunk.js.map": "/Zelt-Bradford-Calculator/static/js/787.58140e66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e1062de.css",
+    "static/js/main.d77dcbdc.js"
+  ]
+}
