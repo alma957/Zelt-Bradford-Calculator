@@ -1,7 +1,7 @@
 {
-  "name": "zelt-overtime-calculator",
+  "name": "zelt-bradford-calculator",
   "version": "0.1.0",
-  "homepage": "https://alma957.github.io/Zelt-Overtime-Calculator",
+  "homepage": "https://alma957.github.io/Zelt-Bradford-Calculator",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.3",
@@ -21,7 +21,9 @@
     "@types/react-dom": "^18.0.6",
     "material-ui": "^0.20.2",
     "react": "^18.2.0",
+    "react-d3-speedometer": "^1.1.0",
     "react-dom": "^18.2.0",
+    "react-gauge-chart": "^0.4.0",
     "react-scripts": "5.0.1",
     "typescript": "^4.7.4",
     "web-vitals": "^2.1.4"
